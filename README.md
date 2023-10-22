@@ -8,7 +8,7 @@ Meu nome é Leandro Gustavo Neis, Analista de Desenvolvimento de Sistemas.
 
 🎓 Técnico em Informática - SENAI - 2009 
 
-🎓 3ª Fase Análise e Desenvolvimento de Sistemas - Univali-SC.
+🎓 Última Fase Análise e Desenvolvimento de Sistemas - Univali-SC.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgn200dev@gmail.com)](mailto:lgn200dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrogneis/)](https://www.linkedin.com/in/leandrogneis/)
