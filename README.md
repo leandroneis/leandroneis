@@ -4,10 +4,11 @@ Meu nome é Leandro Gustavo Neis, Analista de Desenvolvimento de Sistemas.
 
 👨🏻‍💻 Desenvolvedor FullStack
 
-🎓 Formação em Análise e Desenvolvimento de Sistemas - Univali-SC.
-    Conclusão:2023.
-🎓 Formação em Técnico em Informática - SENAI-SC. 
-    Conclusão:2013.
+🎓 Formação em Análise e Desenvolvimento de Sistemas - Univali-SC.  
+ Conclusão:2023.
+
+🎓 Formação em Técnico em Informática - SENAI-SC.  
+ Conclusão:2013.
 
 
 
